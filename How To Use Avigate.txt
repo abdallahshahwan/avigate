@@ -1,0 +1,24 @@
+﻿How To Use Avigate
+
+
+- Starting the server:
+
+ 1) Start the server by running the s.py file
+ 2) Enter a valid ICAO code like "OBBI". Note: A valid ICAO code has to be entered in order for the server to start accepting client connections.
+
+
+- Starting the client:
+
+1) Run the client-gui.py file
+2) Enter your name and click submit
+3) To search for flights from a specific city, click on "View Flights From A City"
+4) Enter city name and click on "Search"
+5) To go back to the main menu, click on "Back to Menu" , then "Start Again" and re-enter your name.
+6) To search for a specific flight, choose "View Specific Flight"
+7) Enter flight number and click "Search"
+8) To go back to the main menu, click on "Back to Menu" , then "Start Again" and re-enter your name.
+9) To view arrived flights, click on "View Arrived Flights"
+10) To go back to the main menu, click on "Back to Menu"
+11) To view delayed flights, click on "View Delayed Flights"
+12) To go back to the main menu, click on "Back to Menu"
+13) To close the program, click on "Quit" in the top right corner
